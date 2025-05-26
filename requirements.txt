@@ -1,0 +1,7 @@
+pandas
+prophet
+flask
+flask-cors
+numpy
+python-dotenv
+pocketbase
